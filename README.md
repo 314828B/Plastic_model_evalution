@@ -21,7 +21,7 @@ https://drive.google.com/file/d/16I7SWz_iRwHTJjm2fG5cgBg_enZBOpzF/view?usp=shari
 テーブル定義書
 https://docs.google.com/spreadsheets/d/197Hzi8LMWx9cjWhhKpLw9Oscpi7PsmaWtkeb3swcMa4/edit?usp=sharing
 
-## チャレンジ要素一覧
+## 機能一覧　
 https://docs.google.com/spreadsheets/d/1u5-ReqyH7xMjTt8Dcn0Ol12HE5Q4IWxD3o-vVdzPZzQ/edit?usp=sharing
 
 ## 開発環境
