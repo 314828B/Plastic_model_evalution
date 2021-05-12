@@ -6,14 +6,8 @@ devise_for :customers, controllers: {
         passwords: 'customers/passwords',
         registrations: 'customers/registrations'
     }
-
-    # 会員側
+    
   get 'homes/top'
-  devise_for :customers, controllers: {
-        sessions: 'customers/sessions',
-        registrations: 'customers/registrations'
-      }
-
   root to: 'homes#top'
   get 'home/about' => 'homes#about'
   resources :items
